@@ -1,0 +1,23 @@
+*{
+    background: black;
+}
+footer{
+    background: #000;
+    color: white;
+   padding: 50px;
+}
+
+footer li{
+    margin: 0 0 0 -30px;
+    list-style: none;
+}
+footer ul{
+    color: grey;
+    margin-top: 20px;
+}
+footer p{
+    color: grey;
+}
+.content{
+    margin-top: 20px;
+}
